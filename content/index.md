@@ -3,8 +3,11 @@ title: Welcome To The World of BitBend
 tags:
   - Home
 created: 2024-12-11T22:10
-updated: 2025-07-23T10:40
+updated: 2025-10-10T09:45
 ---
+---
+
+![[Home.jpg]]
 
 ---
 
