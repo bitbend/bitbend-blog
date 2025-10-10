@@ -1,6 +1,6 @@
-# BitBend Knowledge Garden Code of Conduct
+# Bit & Bend Code of Conduct
 
-Welcome to the **BitBend** Knowledge Garden! To maintain a respectful, productive, and inclusive community, we ask everyone to adhere to the following Code of Conduct.
+Welcome to the **Bit & Bend**! To maintain a respectful, productive, and inclusive community, we ask everyone to adhere to the following Code of Conduct.
 
 ## 1. Our Pledge
 

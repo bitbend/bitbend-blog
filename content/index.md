@@ -1,5 +1,5 @@
 ---
-title: Welcome To The World of BitBend
+title: Welcome To Bit & Bend
 tags:
   - Home
 created: 2024-12-11T22:10

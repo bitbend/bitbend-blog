@@ -8,7 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "BitBend",
+    pageTitle: "Bit & Bend",
+    pageTitleSuffix: " - by BitBend",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

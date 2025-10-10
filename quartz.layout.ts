@@ -7,17 +7,17 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.Comments({
-      provider: 'giscus',
+      provider: "giscus",
       options: {
-        repo: 'bitbend/bitbend-blog',
-        repoId: 'R_kgDONWz2yw',
-        category: 'Q&A',
-        categoryId: 'DIC_kwDONWz2y84Ckvl-',
-        themeUrl: 'https://bitbend.is-a.dev/static/giscus',
-        lightTheme: 'atom-one-light',
-        darkTheme: 'atom-one-dark',
-        mapping: "pathname"
-      }
+        repo: "bitbend/bitbend-blog",
+        repoId: "R_kgDONWz2yw",
+        category: "Q&A",
+        categoryId: "DIC_kwDONWz2y84Ckvl-",
+        themeUrl: "https://bitbend.is-a.dev/static/giscus",
+        lightTheme: "light",
+        darkTheme: "dark",
+        mapping: "pathname",
+      },
     }),
   ],
   footer: Component.Footer({
