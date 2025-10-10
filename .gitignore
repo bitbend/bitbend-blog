@@ -4,10 +4,10 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+content/.obsidian/plugins/
+content/.obsidian/themes/
 content/.obsidian/workspace.json
 content/.obsidian/workspace-mobile.json
-content/.obsidian/plugins
-content/.obsidian/themes
 .quartz-cache
 private/
 .replit
