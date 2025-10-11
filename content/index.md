@@ -3,12 +3,8 @@ title: Welcome To Bit & Bend
 tags:
   - Home
 created: 2024-12-11T22:10
-updated: 2025-10-10T10:19
+updated: 2025-10-11T19:07
 ---
----
-
-![[Home.jpg]]
-
 ---
 
 Software is too hard. Computers feel like magic, so why shouldn’t software? We believe software should also feel like magic.
