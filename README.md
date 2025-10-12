@@ -4,7 +4,7 @@ Welcome to **Bit & Bend** serves as a community-driven resource for developers, 
 
 ## ✨ What to Expect
 
-BitBend is more than just a blog; it's a knowledge hub where information and ideas are shared for both personal and professional growth. Our focus is on creating high-quality, practical content to inspire curious minds and to foster a supportive developer community. Here’s a snapshot of the type of content you can expect:
+**Bit & Bend** is more than just a blog; it's a knowledge hub where information and ideas are shared for both personal and professional growth. Our focus is on creating high-quality, practical content to inspire curious minds and to foster a supportive developer community. Here’s a snapshot of the type of content you can expect:
 
 ### **🚀 Blog Content**
 
