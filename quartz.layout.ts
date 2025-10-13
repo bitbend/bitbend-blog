@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "bitbend/bitbend-blog",
+        repo: "bitbend/bit-and-bend",
         repoId: "R_kgDONWz2yw",
         category: "Q&A",
         categoryId: "DIC_kwDONWz2y84Ckvl-",
@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/bitbend/bitbend-blog",
+      GitHub: "https://github.com/bitbend/bit-and-bend",
       Discord: "https://discord.gg/HVCwQkyMMg",
     },
   }),
