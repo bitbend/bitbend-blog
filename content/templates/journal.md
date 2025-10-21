@@ -1,8 +1,8 @@
 ---
 title: "{{title}}"
 tags:
-  - Journal
+  - journal
 draft: true
-created: ""
-updated: ""
+created: 
+updated:
 ---

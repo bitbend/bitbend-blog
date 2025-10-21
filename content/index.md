@@ -1,9 +1,9 @@
 ---
 title: Welcome To Bit & Bend
 tags:
-  - Home
+  - home
 created: 2024-12-11T22:10
-updated: 2025-10-11T19:07
+updated: 2025-10-21T19:25
 ---
 ---
 
