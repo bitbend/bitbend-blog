@@ -16,7 +16,7 @@ Welcome to **Bit & Bend** serves as a community-driven resource for developers, 
 
 ### **👥 Community Interaction**
 
-Join the [Discord Community](https://discord.gg/HVCwQkyMMg) to connect with fellow readers, share feedback, ask questions, and contribute to discussions. We’re building an inclusive space where everyone from seasoned professionals to newcomers can share knowledge, troubleshoot problems, and learn together.
+Join the [Discord Community](https://discord.gg/pCNJ3bgFYj) to connect with fellow readers, share feedback, ask questions, and contribute to discussions. We’re building an inclusive space where everyone from seasoned professionals to newcomers can share knowledge, troubleshoot problems, and learn together.
 
 ## 📖 Mission Statement
 
@@ -28,4 +28,4 @@ We welcome contributions to the BitBend and Knowledge Base! Here’s how you can
 
 - **Submit Articles**: If you have an idea for a blog post, reach out to us! We’re always looking for fresh perspectives and unique insights.
 - **Improve Existing Content**: Spotted an error or have suggestions? Feel free to submit corrections or expand on current topics.
-- **Join the Conversation**: Participate in discussions on [Discord](https://discord.gg/HVCwQkyMMg) to help build and shape the community.
+- **Join the Conversation**: Participate in discussions on [Discord](https://discord.gg/pCNJ3bgFYj) to help build and shape the community.

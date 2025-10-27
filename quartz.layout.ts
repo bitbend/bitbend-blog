@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/bitbend/bit-and-bend",
-      Discord: "https://discord.gg/HVCwQkyMMg",
+      Discord: "https://discord.gg/pCNJ3bgFYj",
     },
   }),
 }
